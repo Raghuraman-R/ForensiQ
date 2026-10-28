@@ -6,3 +6,4 @@ joblib
 Pillow
 pypdf
 python-docx
+opencv-python-headless
